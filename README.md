@@ -2,7 +2,7 @@
 > You'll need to build [Vencord](https://github.com/Vendicated/Vencord) first.
 
 ## Install
-1. Create `userplugins` folder inside your vencord source (probably `Vencord/src`, ignore this step if you have one)
+1. Create `userplugins` folder inside your `src` folder (probably in the root, ignore this step if you have one)
 2. Run these commands:
 ```bash
 cd userplugins
