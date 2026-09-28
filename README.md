@@ -10,3 +10,8 @@ git clone https://github.com/neroki194/idontlikeu
 pnpm build
 ```
 3. Launch your Discord and head up to Settings > Plugins > Filters > Show UserPlugins, and enable the plugin.
+
+## Tech Stack
+- VS Code (Editor)
+- Typescript/TSX
+- Vencord's plugin API
