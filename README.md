@@ -6,7 +6,7 @@
 2. Run these commands:
 ```bash
 cd userplugins
-git clone https://github.com/neroki194/IDontLikeU
+git clone https://github.com/lastfpvp/IDontLikeU
 pnpm build
 ```
 3. Launch your Discord and head up to Settings > Plugins > Filters > Show UserPlugins, and enable the plugin.
